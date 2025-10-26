@@ -1,0 +1,11 @@
+Title of the Project : SMARTEDU+:ADVANCED MACHINE LEARNING SYSTEM FOR EARLY PREDICTION OF STUDENT DROPOUTS
+Name of the Students : Mohanapoorani R, Mamtha J
+Register Number      : 211423104379, 211423104356
+Name of the Guide    : Dr.K.Valarmathi
+
+ABSTRACT:
+SmartEdu+ is an AI-powered platform designed to predict student dropouts in educational institutions by analyzing academic performance, behavioral patterns, and socio-economic factors. 
+Using machine learning models combined with explainable AI techniques (SHAP), the system identifies at-risk students early and provides actionable insights to faculty for timely intervention. 
+The platform also offers visual analytics, detailed reports, and interpretable model explanations, ensuring transparency in decision-making. 
+By integrating predictive modeling with user-friendly dashboards and feedback mechanisms, SmartEdu+ empowers educational institutions to proactively reduce dropout rates, enhance student retention, and improve overall academic outcomes. 
+Preliminary experiments indicate that the system can accurately identify students at risk, enabling targeted support and informed policy-making.
