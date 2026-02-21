@@ -1,33 +1,43 @@
-SMARTEDU+:ADVANCED MACHINE LEARNING SYSTEM FOR EARLY PREDICTION OF STUDENT DROPOUTS
+# SmartEdu+
 
-I. Steps to Execute the Project
+Advanced Machine Learning System for Early Prediction of Student Dropouts
 
-1. Install the required dependencies:
-   pip install -r requirements.txt
+## Overview
 
-2. Run the Streamlit app:
-   streamlit run app.py
+SmartEdu+ is a machine learning-powered web application designed to predict early student dropout risk using academic and socio-economic data.
 
-3. Upload or load the dataset (student_dropout_300.csv).
+The system uses a Random Forest classifier with SHAP explainability for interpretable predictions.
 
-4. Use the tabs to:
-   - Predict dropout risk.
-   - View SHAP-based explanations.
-   - Explore dataset visualizations.
-   - Submit feedback.
+## Key Features
 
-5. To view results:
-   - Open the local Streamlit URL displayed in the terminal (usually http://localhost:8501).
+- Dropout risk prediction
+- Multi-class classification
+- SHAP explainability
+- Interactive Streamlit dashboard
+- Data visualization
+- Feedback submission
 
-II. Project Details
+## Tech Stack
 
-- Framework: Streamlit, Python
-- ML Model: Random Forest Classifier
-- Explainability: SHAP
-- Visualization: Plotly, Matplotlib
-- Dataset: Student performance and socio-economic data
+Python  
+Streamlit  
+Scikit-Learn  
+SHAP  
+Pandas  
+Plotly  
+Matplotlib  
 
-III. Contributors
-- Mohanapoorani R (Register No: 211423104379)
-- Mamtha J (Register No: 211423104356)
-- Guide: Dr.K.Valarmathi
+## Dataset
+
+Student academic and socio-economic data  
+Sample file: student_dropout_300.csv
+
+## How to Run
+
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run the app
+
+streamlit run app.py
